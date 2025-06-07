@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162225868986",
+    "project_id": "agriaid-dd5a2",
+    "storage_bucket": "agriaid-dd5a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162225868986:android:116151253dad6fe05b3283",
+        "android_client_info": {
+          "package_name": "com.example.agriaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjknwFGgA75girWok-X-UlCBL16t0ldBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
